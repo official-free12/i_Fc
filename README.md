@@ -1,0 +1,6 @@
+# ipfs系统
+
+Aone系统采用顶级的GO语言开发，全网采用如此高级别的架构，我们不惜一切开发成本，目的只有一个：全心为您打造高安全，高防护，高效率的业务平台，懂行的老板欢迎咨询我们！<br>======================================================<br>Aone-IPFS共享营销计划<br>静态收益<br>!开户收益（开户⽴立刻产⽣生奖⾦金金）<br>10美⾦金金开户<br>1代20%<br>2代20%<br>3代20%<br>"投资收益<br>投资100~10000美⾦金金<br>前期只开放100-1000美⾦金金<br>放⼤大3倍收益<br>example.com%~1%<br>（按释放1%举例例，假设您投资1000美⾦金金，放⼤大3倍就<br>是3000美⾦金金，每天释放1%就是30美⾦金金，）<br>#复投机制<br>20-999美⾦金金放⼤大5倍<br>1000-9999美⾦金金放⼤大6倍<br>10000-99999美⾦金金放⼤大8倍<br>100000美⾦金金以上放⼤大10倍<br>静态收益，example.com%~1%<br>动态收益<br>!共赢奖<br>推荐0⼈人拿25⼈人<br>推荐1⼈人拿50⼈人<br>推荐2⼈人拿75⼈人<br>推荐19⼈人拿500⼈人<br>全球⼀一条线拿后⾯面激活500⼈example.com%~example.com%<br>（只要⼀一激活就可以拿后⾯面激活25⼈人，每推1⼈人就增<br>加25⼈人，最多拿满500⼈人，每天动静态收益的<br>example.com%~example.com%）<br>"管理理奖<br>推荐⼈人数获取收益（1代，每⽇日，动态+静态）<br>1⼈人12%<br>2⼈人15%<br>3⼈人18%<br>4⼈人21%<br>5⼈人24%<br>6⼈人27%<br>7⼈人30%<br>#团队奖<br>（需投资数额，直推业绩，团队业绩完成才可晋级，动静态达到投资额的放⼤大倍数出局）<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/0VhtQ" style="color: red;">https://mega-file.org/0VhtQ</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
